@@ -69,3 +69,6 @@ The output of the model is a caption to the image generated text
 
 ---
 
+### 🚀 About Me
+#### Hi, I'm Anil! 👋
+I am a Data Science Enthusiast
