@@ -69,8 +69,8 @@ The output of the model is a caption to the image generated text
 
 ---
 
-### Developed By
+# Developed By
 
-# Mohit Raj
-# Anil Siyag
+### Mohit Raj
+### Anil Siyag
 
