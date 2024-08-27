@@ -9,4 +9,4 @@ Dev Set — 1000 images
 Test Set — 1000 images
 
 
-https://www.kaggle.com/shadabhussain/flickr8k
+https://www.kaggle.com/flickr8k
