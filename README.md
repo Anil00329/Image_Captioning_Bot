@@ -73,4 +73,5 @@ The output of the model is a caption to the image generated text
 
 ### Mohit Raj
 ### Anil Siyag
+### Aman Kumar
 
